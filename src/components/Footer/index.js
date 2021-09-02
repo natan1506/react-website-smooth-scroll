@@ -80,7 +80,7 @@ function Footer() {
               <SocialIconLink href="/" target="_blank" arial-label="Twitter">
                 <FaTwitter />
               </SocialIconLink>
-              <SocialIconLink href="/" target="_blank" arial-label="Linkedin">
+              <SocialIconLink href="https://www.linkedin.com/in/natan-souza-073600aa/" target="_blank" arial-label="Linkedin">
                 <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
